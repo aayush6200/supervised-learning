@@ -1,0 +1,10 @@
+# Exercise 1: Implement Mean Squared Error (MSE) Cost Function
+
+# Write a Python function to calculate the Mean Squared Error (MSE) cost function for a single-variable linear
+# regression. The function should take the following inputs:
+
+# X: An array of input values (independent variable).
+# y: An array of output values (dependent variable).
+# b0: The y-intercept (bias) of the linear regression model.
+# b1: The slope (weight) of the linear regression model.
+# The function should return the MSE value.

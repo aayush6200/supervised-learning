@@ -1,0 +1,12 @@
+Exercise 2: Implement Gradient Descent
+
+Write a Python function to perform gradient descent for a single-variable linear regression. 
+The function should take the following inputs:
+
+X: An array of input values (independent variable).
+y: An array of output values (dependent variable).
+learning_rate: The learning rate for the gradient descent algorithm.
+num_iterations: The number of iterations to run the gradient descent.
+
+The function should initialize the coefficients b0 and b1 to some arbitrary values and then perform gradient descent to update these coefficients iteratively. 
+After the specified number of iterations, the function should return the final values of b0 and b1
